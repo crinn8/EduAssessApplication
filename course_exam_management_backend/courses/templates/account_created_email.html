@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>Subject: Account Created</h3>
+
+<h4>Dear {{ user.username }},</h4>
+
+<p>Your account has been successfully created. You can now log in to your account using the following credentials:</p>
+
+<p>Email: {{ user.email }}</p>
+<p>Password: {{ password }}</p>
+
+<p>Thank you for joining our platform.</p>
+
+<p>Best regards,</p>
+</body>
+</html>
