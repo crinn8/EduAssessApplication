@@ -3,7 +3,7 @@
 ## Introduction
 EduAssessApp is an innovative assessment platform tailored for teachers and students, facilitating seamless course management, exam administration, and grade tracking. Engineered with a robust Vue.js frontend, a Django backend, and a PostgreSQL database, it provides an end-to-end, scalable solution for educational administration.
 
-## For Educators:
+## For Teachers:
 With EduAssessApp, teachers can effortlessly create and manage courses, enroll students via email, and design comprehensive tests with diverse question types, including multiple-choice grids and Python code problems. The platform enhances engagement and motivation through rich testing environments.
 
 One of the standout features is the integrated GPT-powered chat component, which allows teachers to generate questions and content dynamically, leveraging cutting-edge AI to enhance test creation.
