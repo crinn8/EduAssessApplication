@@ -1,11 +1,19 @@
 # EduAssessApplication
 
-	EduAssessApp este o platformă de evaluare care oferă o soluție simplificată pentru gestionarea cursurilor, testelor și notelor, atât pentru profesori, cât și pentru elevi. Construită pe frontend-ul Vue.js, backend-ul Django și baza de date Postgres, această platformă oferă o soluție cuprinzătoare și scalabilă pentru toate aspectele legate de crearea cursurilor, înscrierea studenților, crearea și notarea testelor și urmărirea notelor.
-	
-	Pentru profesori, EduAssessApp oferă o modalitate simplă de a crea și gestiona cursuri și de a adăuga studenți la fiecare curs prin e-mail. Platforma noastră suportă o varietate de tipuri de întrebări, inclusiv grile și probleme cu coduri Python, permițând crearea de teste bogate și atractive, care să îi provoace și să îi motiveze pe studenți. 
-	
-	Una dintre cele mai importante caracteristici ale EduAssessApp este verificarea automată a codului Python, care economisește timp și efort prin verificarea sintaxei și a erorilor de compilare și prin furnizarea de feedback imediat elevilor. Această caracteristică este deosebit de benefică pentru profesorii care au un număr mare de elevi sau care trebuie să noteze mai multe teste simultan.
-	
-	Pentru studenți, EduAssessApp oferă o modalitate convenabilă și eficientă de a accesa și de a susține testele care le-au fost atribuite. Platforma suportă susținerea testelor o singură dată și verifică automat problemele de cod Python pentru erori de sintaxă și de compilare. Elevii își pot vizualiza cu ușurință rezultatele și notele și își pot urmări progresul în timp.
-	
-	Fie că vorbim despre un profesor care dorește să își eficientizeze fluxul de lucru sau despre un student care dorește o modalitate eficientă și eficace de a susține teste, EduAssessApp are tot ce este nevoie pentru a reuși, oferind puterea gestionării raționalizate a cursurilor, crearea și corectarea eficientă a testelor și urmărirea precisă a notelor.
+## Introduction
+EduAssessApp is an innovative assessment platform tailored for teachers and students, facilitating seamless course management, exam administration, and grade tracking. Engineered with a robust Vue.js frontend, a Django backend, and a PostgreSQL database, it provides an end-to-end, scalable solution for educational administration.
+
+## For Educators:
+With EduAssessApp, teachers can effortlessly create and manage courses, enroll students via email, and design comprehensive tests with diverse question types, including multiple-choice grids and Python code problems. The platform enhances engagement and motivation through rich testing environments.
+
+One of the standout features is the integrated GPT-powered chat component, which allows teachers to generate questions and content dynamically, leveraging cutting-edge AI to enhance test creation.
+
+Additionally, the platform’s automatic Python code verification saves significant time by promptly checking syntax and compiling errors, delivering instant feedback, which is especially advantageous for those handling large classes or numerous assessments.
+
+## For Students:
+Students benefit from a user-friendly interface to access and complete tests, with real-time code verification and performance tracking. The platform’s one-session test policy ensures focus and integrity, while the integrated chat assistant can provide immediate help during test-taking, clarifying doubts or offering hints when permissible.
+
+## Enhanced Interaction with GPT-powered Chat:
+EduAssessApp’s unique GPT-integrated chat component takes interaction to the next level. Teachers can use this powerful tool to instantly create diverse and complex test questions, get suggestions for course content, or even communicate with students in a more interactive and responsive way.
+
+Whether optimizing teacher workflows or offering students a dynamic testing experience, EduAssessApp delivers with its comprehensive features, including streamlined course management, efficient test crafting, precise grade tracking, and the revolutionary GPT chat integration.
